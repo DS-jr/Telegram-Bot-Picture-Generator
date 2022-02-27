@@ -17,5 +17,5 @@ Install the library:<br>
 
 Run the program:<br>
 
-python3 main3.py<br>
+<code>python3 main3.py</code><br>
 
