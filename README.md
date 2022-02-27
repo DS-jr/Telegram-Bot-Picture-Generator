@@ -11,12 +11,13 @@ This Telegram Bot sends a dog picture when you enter <code>/go</code> command<br
 </ul>
 
 <h2>Steps</h2>
-Intall <a href="https://telegram.org/">Telegram</a> (if you don't have it yet) & open it<br>
-Register your new Bot with Telegram's official tool - <a href="https://telegram.me/BotFather">BotFather</a><br>
-Follow <a href="https://telegram.me/BotFather">BotFather's</a> instructions, get a Token to access Telegram API (keep it safe)<br>
-Run this code to install the library:<br>
+<ul>
+<li>Intall <a href="https://telegram.org/">Telegram</a> (if you don't have it yet) & open it</li>
+<li>Register your new Bot with Telegram's official tool - <a href="https://telegram.me/BotFather">BotFather</a></li>
+<li>Follow <a href="https://telegram.me/BotFather">BotFather's</a> instructions, get a Token to access Telegram API (keep it safe)</li>
+<li>Run this code to install the library:</li>
 <code>pip3 install python-telegram-bot</code><br>
-Run your program (it can be done locally on your computer):<br>
+<li>Run your program (it can be done locally on your computer):</li>
 <code>python3 main3.py</code><br> 
-Open your Bot in Telegram & enter <code>/go</code> command<br>
-
+<li>Open your Bot in Telegram & enter <code>/go</code> command</li>
+</ul>
