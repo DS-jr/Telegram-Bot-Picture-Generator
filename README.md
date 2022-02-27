@@ -1,6 +1,6 @@
 # Telegram-Bot-Showing-Dog-Images
 
-This bot sends a dog picture when you enter /go command.<br>
+This Telegram bot sends a dog picture when you enter /go command.<br>
 
 <h2>What is used</h2> 
 <ul>
