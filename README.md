@@ -10,8 +10,12 @@ This bot sends a dog picture when you enter /go command.<br>
 </ul>
 
 <h2>Steps:</h2>
+
 Install the library<br>
+
 pip3 install python-telegram-bot<br>
+
 Run the program:<br>
+
 python3 main3.py<br>
 
