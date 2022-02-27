@@ -4,13 +4,14 @@ This Telegram Bot sends a dog picture when you enter <code>/go</code> command<br
 
 <h2>What is used</h2> 
 <ul>
+<li><a href="https://telegram.org/">Telegram</a></li>
 <li>Python 3</li> 
 <li><a href="https://github.com/python-telegram-bot/python-telegram-bot">python-telegram-bot</a> library</li> 
 <li><a href="https://random.dog">random.dog</a> public API</li>
 </ul>
 
 <h2>Steps</h2>
-Intall <a href="https://telegram.org/">Telegram</a> (if you don't have it yet) & open it<br>
+Intall <a href="https://telegram.org/">Telegram</a> (if you don't have it yet) & open it
 
 Register your new Bot with Telegram's official tool - <a href="https://telegram.me/BotFather">BotFather</a><br>
 
