@@ -1,6 +1,6 @@
 # Telegram-Bot-Sending-Dog-Images
 
-This Telegram bot sends a dog picture when you enter <code>/go</code> command.<br>
+This Telegram Bot sends a dog picture when you enter <code>/go</code> command<br>
 
 <h2>What is used</h2> 
 <ul>
@@ -10,12 +10,17 @@ This Telegram bot sends a dog picture when you enter <code>/go</code> command.<b
 </ul>
 
 <h2>Steps</h2>
+Register your new Bot with Telegram's official tool - <a href="https://telegram.me/BotFather">BotFather</a><br>
+
+Follow <a href="https://telegram.me/BotFather">BotFather's</a> instructions, get a Token to access Telegram API<br>
 
 Install the library:<br>
 
 <code>pip3 install python-telegram-bot</code><br>
 
-Run the program:<br>
+Run the program (it can be done locally):<br>
 
-<code>python3 main3.py</code><br>
+<code>python3 main3.py</code><br> 
+
+Open your Bot in Telegram & enter <code>/go</code> command<br>
 
