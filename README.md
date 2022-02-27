@@ -4,7 +4,7 @@ This Telegram Bot sends a dog picture when you enter <code>/go</code> command<br
 
 <h2>What is used</h2> 
 <ul>
-<li><a href="https://telegram.org/">Telegram</a></li>
+<li><a href="https://telegram.org/">Telegram</a> messenger</li>
 <li>Python 3</li> 
 <li><a href="https://github.com/python-telegram-bot/python-telegram-bot">python-telegram-bot</a> library</li> 
 <li><a href="https://random.dog">random.dog</a> public API</li>
