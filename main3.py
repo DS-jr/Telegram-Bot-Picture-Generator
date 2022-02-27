@@ -21,7 +21,7 @@ def go(update, context):
     context.bot.send_photo(chat_id=chat_id, photo=url2)
 
 def main():
-    updater1 = Updater('Your-TOKEN')  # Enter your bot's token here. Telegram gives you this token when you are registering a new bot there.
+    updater1 = Updater('Your-TOKEN')  # Enter your Bot's Token here. Telegram gives you this Token when you are registering a new Bot there.
     dp1 = updater1.dispatcher
     dp1.add_handler(CommandHandler('go', go))
     updater1.start_polling()
