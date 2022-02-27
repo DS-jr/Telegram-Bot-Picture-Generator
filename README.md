@@ -14,7 +14,7 @@ Intall <a href="https://telegram.org/">Telegram</a> (if you don't have it yet) &
 
 Register your new Bot with Telegram's official tool - <a href="https://telegram.me/BotFather">BotFather</a><br>
 
-Follow <a href="https://telegram.me/BotFather">BotFather's</a> instructions, get a Token to access Telegram API<br>
+Follow <a href="https://telegram.me/BotFather">BotFather's</a> instructions, get a Token to access Telegram API (keep it safe)<br>
 
 Install the library:<br>
 
