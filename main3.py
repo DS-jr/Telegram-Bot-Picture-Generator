@@ -2,7 +2,7 @@ from telegram.ext import InlineQueryHandler, CommandHandler, Updater
 import requests
 import re
 
-def get_url_func():  # Access the API & get URL of the content (image or GIF or video)
+def get_url_func():  # Access API & get URL of the content (image or GIF or video)
     b1 = requests.get('https://random.dog/woof.json').json()
     url1 = b1['url']
     return url1
@@ -21,7 +21,8 @@ def go(update, context):
     context.bot.send_photo(chat_id=chat_id, photo=url2)
 
 def main():
-    updater1 = Updater('Your-TOKEN')  # Enter your Bot's Token here. Telegram gives you this Token when you are registering a new Bot there.
+    updater1 = Updater('Your-TOKEN')  # Substitute 'Your-TOKEN' phrase with your Bot's Token. You get your Token when registering a new Bot on Telegram.
+
     dp1 = updater1.dispatcher
     dp1.add_handler(CommandHandler('go', go))
     updater1.start_polling()
